@@ -1,0 +1,14 @@
+https://api.github.com/user/repos-------post opr
+
+
+https://api.github.com/repos/{owner}/{repo} -------get opr
+
+
+https://api.github.com/repos/{owner}/{repo} --------- patch opr
+
+https://api.github.com/repos/{owner}/{repo} --------delete opr
+
+
+
+
+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    ------token
